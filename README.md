@@ -1,7 +1,14 @@
 # Hi there, I'm Lewis! 👋
 
 ### ⚡ Professional Summary
-I'm a **MSc Computing Student at Imperial** passionate about building mobile and web apps. Currently focusing on **RepMax** - my mobile fitness app.
+I'm an **MSc Computing Student at Imperial College London** passionate about building high-performance mobile and web apps. 
+
+---
+
+### 🏋️ Current Project: RepMax
+I am currently developing **RepMax**, a mobile fitness application designed to streamline workout tracking and performance analytics.
+* **Status:** In active development
+* **Focus:** UI/UX, Mobile Performance, Data Visualization
 
 ---
 
@@ -14,12 +21,7 @@ I'm a **MSc Computing Student at Imperial** passionate about building mobile and
 
 ---
 
-### 📊 My GitHub Stats
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=lewiswharf1&show_icons=true&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lewiswharf1&layout=compact&theme=radical)
-
----
-
 ### 📫 Let's Connect!
 - 💼 [LinkedIn](https://www.linkedin.com/in/lewis-wharf-996028217/)
 - 📧 [Email Me](mailto:lewis.wharf@outlook.com)
+- 🌐 [lewiswharf.me](https://lewiswharf.me)
