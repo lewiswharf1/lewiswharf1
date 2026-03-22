@@ -1,16 +1,25 @@
-## Hi there 👋
+# Hi there, I'm Lewis! 👋
 
-<!--
-**lewiswharf1/lewiswharf1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### ⚡ Professional Summary
+I'm a **MSc Computing Student at Imperial** passionate about building digital mobile and web apps. Currently focusing on **RepMax** - my mobile fitness app.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🛠️ Tech Stack & Tools
+| Category | Tools |
+| :--- | :--- |
+| **Languages** | JavaScript, TypeScript, Python |
+| **Frontend** | React, Next.js, Tailwind CSS |
+| **Backend** | Node.js, PostgreSQL |
+
+---
+
+### 📊 My GitHub Stats
+![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=lewiswharf1&show_icons=true&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lewiswharf1&layout=compact&theme=radical)
+
+---
+
+### 📫 Let's Connect!
+- 💼 [LinkedIn](https://www.linkedin.com/in/lewis-wharf-996028217/)
+- 📧 [Email Me](mailto:lewis.wharf@outlook.com)
