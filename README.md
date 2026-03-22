@@ -1,7 +1,7 @@
 # Hi there, I'm Lewis! 👋
 
 ### ⚡ Professional Summary
-I'm a **MSc Computing Student at Imperial** passionate about building digital mobile and web apps. Currently focusing on **RepMax** - my mobile fitness app.
+I'm a **MSc Computing Student at Imperial** passionate about building mobile and web apps. Currently focusing on **RepMax** - my mobile fitness app.
 
 ---
 
