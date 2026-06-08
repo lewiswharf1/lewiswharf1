@@ -10,7 +10,7 @@ I'm an **MSc Computing Student at Imperial College London** passionate about bui
 | **Languages** | JavaScript, TypeScript, Python |
 | **Frontend** | React, Next.js, Tailwind CSS |
 | **Backend** | Node.js, PostgreSQL, FastAPI |
-| **AI / APIs** | OpenAI, Anthropic, LangGraph |
+| **AI / APIs** | OpenAI, LangGraph |
 
 ---
 
