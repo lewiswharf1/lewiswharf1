@@ -1,14 +1,6 @@
 # Hi there, I'm Lewis! 👋
-
 ### ⚡ Professional Summary
-I'm an **MSc Computing Student at Imperial College London** passionate about building high-performance mobile and web apps. 
-
----
-
-### 🏋️ Current Project: RepMax
-I am currently developing **RepMax**, a mobile fitness application designed to streamline workout tracking and performance analytics.
-* **Status:** In active development
-* **Focus:** UI/UX, Mobile Performance, Data Visualization
+I'm an **MSc Computing Student at Imperial College London** passionate about building high-performance mobile and web apps.
 
 ---
 
@@ -17,7 +9,20 @@ I am currently developing **RepMax**, a mobile fitness application designed to s
 | :--- | :--- |
 | **Languages** | JavaScript, TypeScript, Python |
 | **Frontend** | React, Next.js, Tailwind CSS |
-| **Backend** | Node.js, PostgreSQL |
+| **Backend** | Node.js, PostgreSQL, FastAPI |
+| **AI / APIs** | OpenAI, Anthropic, LangGraph |
+
+---
+
+### 🚀 Featured Projects
+
+**AI Finance Tracker** — Upload Chase bank statements and chat with your financial data using OpenAI.
+
+**Content Research Tool** — Scrapes Instagram pages and surfaces outlier posts, built for creators who want to reverse-engineer what performs.
+
+**Teleprompter** — A clean, minimal teleprompter app for recording video content.
+
+**RepMax** — Mobile fitness app for workout tracking and performance analytics, built with React Native and Supabase.
 
 ---
 
